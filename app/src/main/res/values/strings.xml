@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">PracticalTest02</string>
+    <string name="server">SERVER</string>
+    <string name="search">Search Pokemon</string>
+    <string name="pokemon_name">Pokemon name</string>
+    <string name="pokemon_image">Pokemon image</string>
 </resources>
